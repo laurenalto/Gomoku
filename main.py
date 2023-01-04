@@ -10,7 +10,7 @@ Author(s): Michael Guerzhoy with tests contributed by Siavash Kazemian.  Last mo
 
 Lauren Altomare starting: November 1st, 2022
 First Submission: November 10th, 2022 1:42 PM --> fix left diagonal direction
-Second Submissions: November 20th,
+Second Submissions: November 20th, 2022
 """
 
 def is_empty(board):
